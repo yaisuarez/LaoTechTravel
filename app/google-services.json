@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061044438498",
+    "firebase_url": "https://laotechtravel.firebaseio.com",
+    "project_id": "laotechtravel",
+    "storage_bucket": "laotechtravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061044438498:android:88dcd2887632edcb",
+        "android_client_info": {
+          "package_name": "android.big.dev.laotechtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061044438498-2en9ig3bcvdip3kq6166rdpl5gtq76hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.big.dev.laotechtravel",
+            "certificate_hash": "b4a1829094354824dfcfca215891049623fb33d9"
+          }
+        },
+        {
+          "client_id": "1061044438498-6sh271gas91bicjkc2m08q6tr1o9lqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvVa_Pz21MgZKHxTXVI6IyN5HJDtPVRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061044438498-6sh271gas91bicjkc2m08q6tr1o9lqm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
